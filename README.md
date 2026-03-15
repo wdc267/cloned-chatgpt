@@ -1,2 +1,2 @@
 AI Agent
-仿chatgpt
+仿chat gpt
