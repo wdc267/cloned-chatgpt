@@ -1,2 +1,2 @@
-# AI-large-model-application
-一些简易的大模型应用
+AI Agent
+仿chatgpt
